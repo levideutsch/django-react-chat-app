@@ -1,6 +1,6 @@
 venv/
 db.sqlite3
-.env
+ldchat/.env
 .DS_Store
 __pycache__
 #test
